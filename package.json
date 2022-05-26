@@ -54,7 +54,7 @@
     "@chaingun/types": "^0.0.7",
     "@types/eventsource": "^1.1.2",
     "@types/isomorphic-fetch": "^0.0.35",
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "isomorphic-fetch": "^2.2.1"
   },
   "devDependencies": {
